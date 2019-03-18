@@ -1,0 +1,22 @@
+10users whoo have the maximum followers: 
+
+1. Username: ndtv -> Follower count: 11301434
+
+2. Username: abpnewstv -> Follower count: 8192695
+
+3. Username: htTweets -> Follower count: 6712404
+
+4. Username: ZoomTV -> Follower count: 4700582
+
+5. Username: ZeeNews -> Follower count: 4312019
+
+6. Username: IndianExpress -> Follower count: 3067122
+
+7. Username: firstpost -> Follower count: 2004342
+
+8. Username: Bollyhungama -> Follower count: 1656336
+
+9. Username: VOGUEIndia -> Follower count: 1194901
+
+10. Username: BT_India -> Follower count: 933853
+
